@@ -24,7 +24,7 @@ Welcome to my profile! I'm a Computer Engineer passionate about gaming, modding 
 
 ### 🌎 Languages
 - Spanish: Native
-- English: Professional working proficiency (B2/C1)
+- English: Professional working proficiency (C1/C2)
 
 ## 🛠️ Languages & Tools
 
