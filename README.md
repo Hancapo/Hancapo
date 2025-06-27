@@ -17,7 +17,7 @@ Welcome to my profile! I'm a Computer Engineer passionate about gaming, modding 
 
 </td>
 <td width="50%" align="center" style="border: none; padding: 0;">
-<img src="https://media.tenor.com/r6TGLs81M4UAAAAj/touhou-sakuya.gif" width="300"/>
+<img src="https://media.tenor.com/yWaLIc5J9WgAAAAi/momoi.gif" width="300"/>
 </td>
 </tr>
 </table>
