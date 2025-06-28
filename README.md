@@ -6,9 +6,9 @@
 
 Welcome to my profile! I'm a Computer Engineer passionate about gaming, modding and music. I love making people's life easier and I'm always looking for new challenges to learn and grow.
 
-<table border="0" style="border:none; border-collapse: collapse;">
+<table border="4" border-collapse: collapse;">
 <tr style="border: none;">
-<td width="50%" style="border: none; padding: 0;">
+<td width="50%">
 
 - 🔭 I'm currently working on Vicho's Tools and other modding tools.
 - 🌱 I'm currently improving my problem solving skills.
@@ -16,7 +16,7 @@ Welcome to my profile! I'm a Computer Engineer passionate about gaming, modding 
 - 📫 Discord: @mrvicho13
 
 </td>
-<td width="50%" align="center" style="border: none; padding: 0;">
+<td width="50%" align="center">
 <img src="https://media.tenor.com/yWaLIc5J9WgAAAAi/momoi.gif" width="300"/>
 </td>
 </tr>
@@ -66,6 +66,13 @@ Welcome to my profile! I'm a Computer Engineer passionate about gaming, modding 
 
 <table>
   <tr>
+    <td align="center">
+      <a href="https://github.com/Hancapo/Folder2YTD">
+        <b>🐍 pyNVTT</b>
+        <br />
+        <i>A Python wrapper of NVIDIA Texture Tools 3</i>
+      </a>
+    </td>
     <td align="center">
       <a href="https://github.com/Hancapo/Folder2YTD">
         <b>🚀 Folders2YTD</b>
