@@ -76,7 +76,6 @@ Welcome to my profile! I'm a Computer Engineer passionate about gaming, modding 
   </a>
 </div>
 <p align="center">
-  <i>Feel free to reach out for interesting collaborations!</i>
   <br/>
   <br/>
   <a href="http://www.thereisnothinghere.com/">Portfolio (Not Available yet)</a>
