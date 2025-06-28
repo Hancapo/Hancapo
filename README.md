@@ -32,7 +32,6 @@ Welcome to my profile! I'm a Computer Engineer passionate about gaming, modding 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <!-- Add or remove languages as needed -->
 </p>
 
 ### Frameworks & Libraries
@@ -49,7 +48,6 @@ Welcome to my profile! I'm a Computer Engineer passionate about gaming, modding 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg" alt="rider" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
-  <!-- Add or remove tools as needed -->
 </p>
 
 ## 📊 GitHub Stats
@@ -62,42 +60,21 @@ Welcome to my profile! I'm a Computer Engineer passionate about gaming, modding 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hancapo&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
 
-## 🏆 Featured Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Hancapo/Folder2YTD">
-        <b>🐍 pyNVTT</b>
-        <br />
-        <i>A Python wrapper of NVIDIA Texture Tools 3</i>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Hancapo/Folder2YTD">
-        <b>🚀 Folders2YTD</b>
-        <br />
-        <i>Convert images contained in a folder to .YTD</i>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Hancapo/VichoTools">
-        <b>💡 Vicho's Tools</b>
-        <br />
-        <i>A Blender's Add-on/Extension for extended GTA modding capabilities</i>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Hancapo/PapuEngine">
-        <b>🏰 PapuEngine</b>
-        <br />
-        <i>An experimental 2D/3D Engine made in C#</i>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
+## <p align="center">🏆 Featured Projects</p>
+<div align="center">
+  <a href="https://github.com/Hancapo/pynvtt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hancapo&repo=pynvtt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+  <a href="https://github.com/Hancapo/vichotools">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Hancapo&repo=vichotools&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+  <a href="https://github.com/Hancapo/papuengine">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Hancapo&repo=PapuEngine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+  <a href="https://github.com/Hancapo/Folder2Ytd">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Hancapo&repo=Folder2Ytd&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+</div>
 <p align="center">
   <i>Feel free to reach out for interesting collaborations!</i>
   <br/>
@@ -105,7 +82,6 @@ Welcome to my profile! I'm a Computer Engineer passionate about gaming, modding 
   <a href="http://www.thereisnothinghere.com/">Portfolio (Not Available yet)</a>
 </p>
 
-<!-- Visit Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hancapo&label=Views&color=brightgreen" alt="Visit Counter"/>
 </p>
